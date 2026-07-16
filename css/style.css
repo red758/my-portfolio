@@ -210,7 +210,7 @@ h1, h2, h3, h4 {
 .bg4 { 
   background-image: 
     linear-gradient(180deg, #090a0f 0%, rgba(9,10,15,0.4) 50%, #090a0f 100%), 
-    url("../assets/education_bg..png"); 
+    url("../assets/education.jpe"); 
 }
 
 /* -- About Me -- */
