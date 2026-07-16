@@ -195,22 +195,22 @@ h1, h2, h3, h4 {
 .bg1 { 
   background-image: 
     linear-gradient(180deg, #090a0f 0%, rgba(9,10,15,0.4) 50%, #090a0f 100%), 
-    url("red_logo.png"); 
+    url("assets/red_logo.png"); 
 }
 .bg2 { 
   background-image: 
     linear-gradient(180deg, #090a0f 0%, rgba(9,10,15,0.4) 50%, #090a0f 100%), 
-    url("black_bg_skills.png"); 
+    url("assets/black_bg_skills.png"); 
 }
 .bg3 { 
   background-image: 
     linear-gradient(180deg, #090a0f 0%, rgba(9,10,15,0.3) 50%, #090a0f 100%), 
-    url("lily.png"); 
+    url("assets/lily.png"); 
 }
 .bg4 { 
   background-image: 
     linear-gradient(180deg, #090a0f 0%, rgba(9,10,15,0.4) 50%, #090a0f 100%), 
-    url("black_bg.png"); 
+    url("assets/black_bg.png"); 
 }
 
 /* -- About Me -- */
