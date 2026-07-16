@@ -418,9 +418,11 @@ h1, h2, h3, h4 {
 
 .current_degree, .junior_college {
     border: 1px solid rgba(255, 255, 255, 0.1);
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: rgba(255, 255, 255, 0.04);
     border-radius: 12px;
     padding: 30px;
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px);
     box-sizing: border-box;
     transition: transform 0.3s ease, border-color 0.3s ease;
 }
