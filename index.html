@@ -4,16 +4,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Aryan | Portfolio</title>
-<style>
-
-</style>
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
 <!-- Section 1: Hero Cover Section -->
 <div class="img-box">
-    <img src="portfolio_hero_black_img.png" class="base">
-    <img src="portfolio_hero_img.png" class="overlay">
+    <img src="assets/portfolio_hero_black_img.png" class="base">
+    <img src="assets/portfolio_hero_img.png" class="overlay">
     <span class="thought">
         <h1 id="quote">Consensus has never <br>been the birthplace of progress.</h1>
         <div class="quote-author">— Aryan Mali</div>
@@ -25,7 +23,7 @@
     <div class="navbar-content">
         
         <a href="#" class="nav-logo">
-            <img src="red_logo_nav.png" alt="Logo">
+            <img src="assets/red_logo_nav.png" alt="Logo">
         </a>
 
         <div class="nav-links">
@@ -210,20 +208,6 @@
   </div>
 </div>
 
-<!-- Mask Reveal Logic-->
-<script>
-    const box = document.querySelector(".img-box");
-    const overlay = document.querySelector(".overlay");
-
-    box.addEventListener("mousemove", (e) => {
-      const rect = box.getBoundingClientRect();
-      const x = e.clientX - rect.left;
-      const y = e.clientY - rect.top;
-      const radius = 80;
-
-      overlay.style.webkitMaskImage = `radial-gradient(circle ${radius}px at ${x}px ${y}px, white 0%, white 100%, transparent 100%)`;
-      overlay.style.maskImage = `radial-gradient(circle ${radius}px at ${x}px ${y}px, white 0%, white 100%, transparent 100%)`;
-    });
-</script>
+<script src="js/script.js"></script>
 </body>
 </html>
