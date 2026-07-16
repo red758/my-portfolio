@@ -9,9 +9,9 @@ A clean, modern, and responsive personal portfolio website built with HTML, CSS,
 - **Education Timeline**: Organized display of academic milestones.
 
 ## Technologies Used
-- HTML5
-- CSS3 (Vanilla CSS with flexbox, grid, and parallax background elements)
-- JavaScript (Vanilla JS DOM interactions)
+- HTML
+- CSS
+- JavaScript
 
 ## Folder Structure
 ```text
