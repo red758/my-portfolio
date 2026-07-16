@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
 
 @media (max-width: 768px) {
     .thought {
-        bottom: 15%;
+        bottom: 20%;
         left: 5%;
         max-width: 90%;
     }
@@ -557,7 +557,7 @@ h1, h2, h3, h4 {
     .bg3 h1,
     #education_title,
     .contact-text div:first-child {
-        font-size: 32px;
+        font-size: 35px;
     }
     
     .parallax {
