@@ -2,7 +2,7 @@
 
 A personal portfolio website developed using HTML, CSS, and JavaScript.
 
-The portfolio explores the idea of presenting a it as an experience rather than a conventional online résumé. Through interactive elements, and a consistent visual language, the design aims to create an engaging journey while highlighting technical skills, projects, and academic background.
+The portfolio explores the idea of presenting it as an experience rather than a conventional online résumé. Through interactive elements, and a consistent visual language, the design aims to create an engaging journey while highlighting technical skills, projects, and academic background.
 
 ## Tech Stack
 
